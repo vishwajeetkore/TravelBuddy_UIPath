@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bP9cd4Y2_0GtonrGnX2LWg" Reference="cubGZOTS_E-Mz3QWAo41Tw/-wo5Ivk6zEWPP1ophIEKyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" DesignTimeRectangle="235, 527, 377, 57" DesignTimeScaleFactor="1.25" ElementType="ListItem" FullSelectorArgument="&lt;webctrl aria-role='option' tag='LI' parentid='react-autowhatever-1' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='option' tag='LI' type='' class='react-autosuggest__suggestion react-autosuggest__suggestion--first' aaname='' check:innerText='Mumbai, India&amp;#xA;&amp;#xA;BOM&amp;#xA;&amp;#xA;Chhatrapati Shivaji International Airport' /&gt;" Guid="5d3675dd-742d-4981-a755-a14d1ccc9608" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*MakeMyTrip*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5d023de62b88418b6f428cee3f3813c5.png" xmlns="">0ShdDgFJCDEWWx9kR391zig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

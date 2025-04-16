@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Si0eDhKNpEy40S3B5pQ06w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com/flight/search" CVScreenId="899f6f06-0865-426c-81e4-41cf6f97a01a" CvElementArea="1199, 328, 38, 36" CvType="CloseButton" DesignTimeRectangle="1207, 334, 25, 25" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl isleaf='1' parentid='root' tag='SPAN' idx='54' /&gt;" FuzzySelectorArgument="&lt;webctrl isleaf='1' parentid='root' tag='SPAN' type='' class='bgProperties overlayCrossIcon icon20' aaname='' /&gt;" Guid="9acbd6b9-339c-424a-b339-f5f7ca6343a7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*MakeMyTrip*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="899f6f06-0865-426c-81e4-41cf6f97a01a" CvTextArea="770, 354, 332, 22" CvTextArgument="Now Lock Prices &amp; Pay Later!" CvType="Text" DesignTimeRectangle="772, 346, 331, 38" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;p' idx='7' isleaf='1' parentid='root' tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='fontSize20 blackText appendBottom12 blackFont appendLeft10' isleaf='1' parentid='root' tag='P' aaname='Now Lock Prices &amp;amp; Pay Later!&amp;#x9;' check:innerText='Now Lock Prices &amp;amp; Pay Later!' /&gt;" Guid="4749788e-f9dd-4031-acb4-1f7948af0d4f" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="484a3c0e39fce13661123f327b4f0090.png" xmlns="">0_wnz1QruyECkYXA8JCifuA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

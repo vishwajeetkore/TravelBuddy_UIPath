@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EeAmvV1lBUu10RcaSEvEAQ" Reference="cubGZOTS_E-Mz3QWAo41Tw/Tx84WXgKVUOdto110Z_bug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" DesignTimeRectangle="235, 435, 395, 52" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' parentid='top-banner' type='text' idx='2' /&gt;" FuzzySelectorArgument="&lt;webctrl type='text' tag='INPUT' class='react-autosuggest__input react-autosuggest__input--open react-autosuggest__input--focused' placeholder='From' aaname='' /&gt;" Guid="d7a27607-f5d5-481e-803e-d2ab8c4a64ec" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights &amp;amp; Holiday' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="634c3e209e9a42dcc6d398fb806d585f.png" xmlns="">0Xdvi50G-w0SKJ2V9KblV1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

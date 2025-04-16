@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hicM4KToj0i-Flhn8d4iMA" Reference="cubGZOTS_E-Mz3QWAo41Tw/UeNEO_PySU-1ysc_fQmMPw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" DesignTimeRectangle="1000, 514, 66, 60" DesignTimeScaleFactor="1.25" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aria-role='gridcell' parentid='top-banner' aria-label='*{0}' /&gt;&quot;, str_Date_Select)]" FuzzySelectorArgument="&lt;webctrl aria-role='gridcell' parentid='top-banner' aria-label='*Mar 22 2025' tag='DIV' type='' class='DayPicker-Day' aaname='' check:text='225,004' /&gt;" Guid="d13eccd4-24de-4c2f-b40a-c65184165914" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*MakeMyTrip*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="06dc670feb12852ee09cdef12e55b17d.png" xmlns="">0poYBXqVspUGCKIOlRAeZhQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="str_Date_Select" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

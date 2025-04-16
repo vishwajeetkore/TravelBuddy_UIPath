@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_XCLYfrSY0qnvOAdmbXyOw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" DesignTimeRectangle="611, 435, 395, 52" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' parentclass='react-autosuggest__container react-autosuggest__container--open' parentid='top-banner' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' parentclass='react-autosuggest__container react-autosuggest__container--open' parentid='top-banner' type='text' class='react-autosuggest__input react-autosuggest__input--open react-autosuggest__input--focused' placeholder='To' aaname='' /&gt;" Guid="361b29fe-fbb6-4dc5-9f02-4be450224960" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*MakeMyTrip*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7338f1d46a5463b1b6252792ae23b242.png" xmlns="">0fkSpQXlgPkyUTAHMJ-nqFw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

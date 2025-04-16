@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_RSmpO2dtE-Fh1-p3p-Odw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="makemytrip.com" DesignTimeRectangle="659, 404, 302, 21" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='To' parentid='top-banner' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='To' parentid='top-banner' tag='SPAN' type='' class='lbl_input appendBottom10' check:innerText='To' /&gt;" Guid="bbc07edc-2cee-4cd5-a592-8326c77490dc" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*MakeMyTrip*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="93c25e8f5b2fce4897d8d05b0cdc07d9.png" xmlns="">0fytNkBOTaUuayyYADQttDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
